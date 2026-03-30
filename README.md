@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+My name is Aaditya Mhatre and I am currently a computer science major at VIT Bhopal university.
+I am open to learn all kinds of things related to computers.
 
 <!--
 **Aadman17/Aadman17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
